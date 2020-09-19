@@ -6,7 +6,7 @@
 
 这个仓库是我一时兴起制作的，可能有点不全面，感谢**[MC百科](www.mcmod.cn)**提供的参考
 
-**郑重声明：本教程不涉及原版教程或MOD Loader（即Forge、Farbic等）及MOD安装教程，如需原版教程前往[Minecraft Wiki](https://minecraft-zh.gamepedia.com/Minecraft_Wiki)，MOD Loader安装前往[Mod 安装教程 | Forge / liteloader / Fabric 运行环境下载和安装](https://www.mcbbs.net//thread-875660-1-1.html)**
+**郑重声明：本教程不涉及原版教程或MOD Loader（即Forge、Farbic等）及MOD安装教程，如需原版教程前往[Minecraft Wiki](https://minecraft-zh.gamepedia.com/Minecraft_Wiki)，MOD Loader安装前往[Mod 安装教程 | Forge / liteloader / Fabric 运行环境下载和安装](https://www.mcbbs.net//thread-875660-1-1.html)，如果不说明，本教程所述均为1.12.2版本**
 
 ---
 
