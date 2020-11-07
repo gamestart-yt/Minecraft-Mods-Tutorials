@@ -12,29 +12,29 @@
 
 [**Mod-Tutorials**]：文件总目录
 
-​	[**resource**]：README.md的素材文件
+|—[**resource**]：README.md的素材文件
 
-​		[**image**]：README.md中的图片文件
+|			|—[**image**]：README.md中的图片文件
 
-​	[**Tutorials**]：教程主文件
+|—[**Tutorials**]：教程主文件
 
-​		[**[IC2]工业时代2 Industrial Craft 2**]
+|			 |—[**[IC2]工业时代2 Industrial Craft 2**]
 
-​			[**resource**]：资源文件
+|						|—[**resource**]：资源文件
 
-​				[**image**]：图片文件
+|						|		|—[**image**]：图片文件
 
-​			[**PDF**]：PDF文件
+|						|—[**PDF**]：PDF文件
 
-​				[**简介.pdf**] 
+|						|		|—[**简介.pdf**] 
 
-​				[**世界生成.pdf**]
+|						|		|—[**世界生成.pdf**]
 
-​			[**简介.md**]
+|						|—[**简介.md**]
 
-​			[**世界生成.md**]
+|						|—[**世界生成.md**]
 
-​	[**README.md**]：你所看到的文件
+|—[**README.md**]：你所看到的文件
 
 ---
 
